@@ -10,9 +10,9 @@ const config = {
 	kit: {
 		adapter: adapter()
 	},
-  vitePlugin: {
-    hot: false  
-  },
+	vitePlugin: {
+		hot: false  
+	},
 };
 
 export default config;
